@@ -11,3 +11,4 @@ if not _ASTROPY_SETUP_:
 
     from .githubquery import *
     from .jiraquery import *
+    from .jirahub import *
